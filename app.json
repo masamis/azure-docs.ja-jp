@@ -1,0 +1,15 @@
+{
+  "name": "azure-docs.ja-jp",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
